@@ -68,6 +68,3 @@ This folder contains: - tasks_data.json\
 -   Python 3.8 or newer
 -   Works on Windows, macOS, and Linux
 
-## License
-
-MIT License (or any license you choose to include)
